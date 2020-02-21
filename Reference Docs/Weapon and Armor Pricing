@@ -1,0 +1,18 @@
+~Durability~
+*Type*    *Cost*    *Durability*
+
+Normal    Normal    3 ticks
+Fine      $ x 2     5 ticks
+Superior  $ x 3     7 ticks
+
+~Weapon Material~
+*Material*          *Cost*        *Effect*
+Arandur             $ x 5         +1 to Hit
+Telstang            $ x 10        +1 to Damage
+Mythral             $ x 20        +1 Weapon
+Adamantine          $ x 40        +1 Weapon, 19 to crit
+
+~Armor Mods~
+*Material*          *Cost*        *Effect*
+Meteorite           $ x 10        +1 Armor
+Mythral             $ x 20        No disadv. on stealth
