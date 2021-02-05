@@ -1,0 +1,39 @@
+Lenny's Rifle
+firearms ranged weapon (artificer)
+
+Damage: 1d10
+Damage Type: Piercing
+Properties: Reload, Misfire (Scaling), Range, Two-Handed, Ammunition
+Range: 120/240
+Weight: 10 lb
+Cost: 800
+Reload: 4
+
+
+Artificer Weapon: An Artificer can use their Intelligence modifier for attack and damage rolls while using this weapon.
+
+Damage Increase: This weapon’s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+
+Reload. The weapon can be fired a number of times equal to its Reload score before you must spend 1 attack or 1 action to reload. You must have one free hand to reload a firearm. Alternatively, individual bullets can be loaded directly as a bonus action.
+
+Misfire (Scaling). Whenever you make an attack roll with a firearm, and the dice roll is equal to or lower than the weapon’s Misfire score, the weapon misfires, and the misfire score increases by 1. The attack misses, and the weapon cannot be used again until you spend an action to try and repair it. To repair your firearm, you must make a successful Tinker’s Tools check (DC equal to 8 + misfire score). If your check fails, the weapon is broken and must be mended out of combat at a quarter of the cost of the firearm. The weapon doesn't need to be broken in order to be mended. Creatures who use a firearm without being proficient increase the weapon’s misfire score by 1.
+
+Ammunition. Ammunition for this rifle can be crafted using Tinkerer Tools, at a rate of 10 bullets / hour. This ammunition is non-magical. The only material component required to produce ammunition is blasting powder. A 10 GP bag of blasting powder can produce up to 20 pieces of ammunition.
+
+
+
+Magic Ammunition
+
+The rifle is capable of firing a wide variety of magic ammunition. Pieces of magic ammunition must be loaded individually as a bonus actions
+
+In order to create magic ammunition, it must first be designed, and then specially crafted using specific material components. The required components and difficulty to craft will vary depending on the desired effect of the ammunition, though most (if not all) will require blasting powder.
+
+Designing
+
+Work with your DM on the desired effect of the ammunition. Depending on the relative power of the effect, the DM will determine the DC for designing the ammunition, and may require multiple successful checks to come up with the design.
+
+Once the design has been successfully created, the DM will determine the material components and associated cost required for crafting 5 pieces of ammunition. Material components will need to be specifically procured or crafted.
+
+Crafting
+
+Crafting magical ammunition requires 1 hour of dedicated time, and the appropriate material components. Each type of magical ammunition will have associated DCs for crafting 1, 3, and 5 pieces of ammunition over the course of a 1 hour period. Rolling lower than the lowest DC means no ammunition is created. Once 5 pieces of ammunition are crafted, the associated material components are consumed.
