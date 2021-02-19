@@ -1,0 +1,15 @@
+Bleeding short
+Materials per Bullet: 1 GP Gunpowder, 15 GP crushed precious gemstones
+
+Crafting DC
+
+15 (1 ammo/1 hour)
+
++3 DC per additional bullet.
+
+Max 5 bullets / hour.
+
+Effect: On a hit, the target takes damage as usual, and the target is considered Bleeding.
+While Bleeding, the creature cannot benefit from any innate regeneration effects, and takes 2d6 necrotic damage at the end of it's turn unless it takes an action to staunch the bleeding.
+Any other creature can use an action to make a DC 13 Medicine check in order to stop the bleeding.
+Additionally, a use of a healer's kit ends the effect.
