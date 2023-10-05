@@ -4,3 +4,7 @@ Tamo Smithy
 INNS
 * Gnarled Pine
 
+SHOPS
+* Karrey's Candy Shop
+** Owner Karrey is a dragonborn
+
