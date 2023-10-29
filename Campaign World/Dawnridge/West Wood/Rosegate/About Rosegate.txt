@@ -5,8 +5,8 @@ Big city state / fiefdom on the very western edge of the western wood.
 ** Walled except for the modest river port
 ** Rosegate falls a bit upstream
 ** A number of smaller duchies and hamlets are under the protection of Rosegate, which has a substantial army
-** The city itself is a large walled city with a large inner keep
-** Low-growing rosebushes, white and light yellow flowers feature prominently - it's somewhat austere
+** The city itself is a large walled city with a large walled inner keep
+** Low-growing rosebushes, white and light yellow flowers feature prominently - it's somewhat austere in the nicer areas
 ** Thick stonework and heavy logs in construction, whitewash applied liberally to match the lighter stone of the region
 ** The outer wall is made of stone and massive tree spikes, carved into large spikes
 ** There's the minor city within the keeps walls, with large wooden inner wall. 
